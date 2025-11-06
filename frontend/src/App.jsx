@@ -8,8 +8,9 @@ import Cart from './components/Cart';
 import CheckoutModal from './components/CheckoutModal';
 import './index.css';
 
-const API = axios.create({ baseURL: 'http://localhost:5000/api' });
-
+const API = axios.create({ 
+  baseURL: import.meta.env.VITE_API_URL || 'http://localhost:5000/api'
+});
 function App() {
   const [products, setProducts] = useState([]);
   const [cart, setCart] = useState({ items: [], total: 0 });
