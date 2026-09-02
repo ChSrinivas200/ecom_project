@@ -2,16 +2,6 @@
 
 A **full-stack E-Commerce web application** built using the **MERN stack (MongoDB, Express, React, Node.js)**.  
 It features a modern product catalog, a persistent shopping cart, and a smooth mock checkout experience.
-
----
-
-## 🌐 Live Demo
-
-🔗 **[Live on Render](https://ecommerce-store-tez7.onrender.com)**
-
----
-
-
 ---
 
 ## ✨ Features
