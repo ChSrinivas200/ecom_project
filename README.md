@@ -34,7 +34,7 @@ This is a **monorepo** project. Run frontend and backend separately in two termi
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/ChSrinivas200200/ecom_project.git
+git clone https://github.com/ChSrinivas200/ecom_project.git
 cd ecom_project
 ```
 ### 2️⃣ Backend Setup
